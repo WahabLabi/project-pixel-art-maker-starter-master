@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Pixel Art Maker!</title>
+    <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Monoton">
+    <link rel="stylesheet" href="styles.css">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/animate.css/3.5.2/animate.min.css">
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script>
+</head>
+<body>
+    <h1 class="animated infinite pulse">PIXEL ART MAKER</h1>
+
+    <h2>Choose Grid Size</h2>
+    <form id="sizePicker">
+        Grid Height (maximum 18):
+        <input type="number" id="input_height" name="height" min="1" value="">
+        Grid Width (maximum 60):
+        <input type="number" id="input_width" name="width" min="1" value="">
+        <input type="submit">
+    </form>
+
+    <h2>Pick A Color</h2>
+    <input type="color" id="colorPicker">
+
+    <h2>Design Canvas</h2>
+    <p>(1) Click on your desired starting point on the grid (2) Then use your mouse or touchpad to draw (3) Finally double click to stop (or change color)</p>
+    <table id="pixel_canvas"></table>
+
+    <!--refresh grid-->
+    <button type="button" id="refresh_grid" onclick="alert('Are you sure you want to erase your design?')">Refresh</button>
+
+    <!--Delete grid-->
+    <button type="button" id="delete_grid" onclick="alert('Are you sure you want to delete the grid?')">Delete</button>
+
+    <script src="designs.js"></script>
+
+</body>
+</html>
