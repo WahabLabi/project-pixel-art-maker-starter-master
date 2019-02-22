@@ -2,12 +2,8 @@
 
 <img src="https://github.com/wlabi/Pixel-Art-Maker-Udacity-FEND/blob/master/Pixel%20Art%20Maker%20Screenshot.png" alt="screenshot of pixel art maker" width="90%" height="90%">
 
-- You control an avatar and your aim is to reach the water by crossing the busy thoroughfare whilst evading the bugs
-- Choose your avatar by clicking on one of the five provided and then move it using your keyboard arrow keys
-- You have three lives
-- Success (reaching the water) = 10 points
-- Failure (being hit by a bug) = having a life and one point deducted and then restarting
-- The bugs move at random speeds which are reset after every success or failure
+- A fun drawing tool!
+- 
 
 ## Access and Installation
 
@@ -15,15 +11,19 @@ You can play the game by [clicking here][1] or by cloning/downloading this repos
 
 ## Development
 
-This game was one of my projects for my [Front End Developer Nanodegree][2] at [Udacity][3]. Udacity provided the game engine and resources and then I used my object-oriented JavaScript (OOJS) skills to make it work perfectly - you can see some of my code in the [app.js](js/app.js) file in this repository.
+This was one of my projects for my [Front End Developer Nanodegree][2] at [Udacity][3]. The aim of the project was for students to use their HTML, CSS and JavaScript skills to build a complex application - you can see some of my code in the [app.js](js/app.js) file in this repository.
 
 Skills developed:
 
-* [x] OOJS
-* [x] ES6 (especially the use of classes)
-* [x] DOM manipulation
-* [x] CSS styling
-* [x] Game development (especially 2D collision detection and keyboard control mechanisms)
+* [x] Development strategy: breaking down and planning a project
+* [x] Use of JavaScript arrays for data manipulation
+* [x] Use of JavaScript timing events (setTimeout() and setInterval())
+* [x] Use of Immediately Invoked Function Expressions
+* [x] Creation and use of modals/popups
+* [x] DOM manipulation:
+  * [x] Listening for and then handling events
+  * [x] Selecting and manipulating DOM elements
+* [x] Debugging
 
 ## License
 
