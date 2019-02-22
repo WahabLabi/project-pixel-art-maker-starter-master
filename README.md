@@ -6,7 +6,7 @@ This is a drawing tool - choose a grid size, pick a color and then start drawing
 
 ## Access and Installation
 
-You can play the game by [clicking here][1] or by cloning/downloading this repository and then opening the index.html file
+You can access it by [clicking here][1] or by cloning/downloading this repository and then opening the index.html file
 
 ## Development
 
