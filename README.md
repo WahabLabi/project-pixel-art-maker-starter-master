@@ -2,8 +2,7 @@
 
 <img src="https://github.com/wlabi/Pixel-Art-Maker-Udacity-FEND/blob/master/Pixel%20Art%20Maker%20Screenshot.png" alt="screenshot of pixel art maker" width="90%" height="90%">
 
-- This is a fun drawing tool - choose your grid size, pick a color and then draw!
-- Double click at any time to change color
+- This is a drawing tool - choose a grid size, pick a color and then start drawing!
 
 ## Access and Installation
 
