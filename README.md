@@ -2,7 +2,7 @@
 
 <img src="https://github.com/wlabi/Pixel-Art-Maker-Udacity-FEND/blob/master/Pixel%20Art%20Maker%20Screenshot.png" alt="screenshot of pixel art maker" width="90%" height="90%">
 
-- This is a drawing tool - choose a grid size, pick a color and then start drawing!
+This is a drawing tool - choose a grid size, pick a color and then start drawing!
 
 ## Access and Installation
 
@@ -10,19 +10,11 @@ You can play the game by [clicking here][1] or by cloning/downloading this repos
 
 ## Development
 
-This was one of my projects for my [Front End Developer Nanodegree][2] at [Udacity][3]. The aim of the project was for students to use their HTML, CSS and JavaScript skills to build a complex application - you can see some of my code in the [app.js](js/app.js) file in this repository.
+This was my first major project for my [Front End Developer Nanodegree][2] at [Udacity][3] and I used jQuery to manipulate the DOM. You can see my code in the [designs.js](designs.js) file in this repository.
 
 Skills developed:
 
-* [x] Development strategy: breaking down and planning a project
-* [x] Use of JavaScript arrays for data manipulation
-* [x] Use of JavaScript timing events (setTimeout() and setInterval())
-* [x] Use of Immediately Invoked Function Expressions
-* [x] Creation and use of modals/popups
-* [x] DOM manipulation:
-  * [x] Listening for and then handling events
-  * [x] Selecting and manipulating DOM elements
-* [x] Debugging
+* [x] jQuery DOM manipulation
 
 ## License
 
