@@ -4,7 +4,7 @@
 
 This is a drawing tool - choose a grid size, pick a color and then start drawing!
 
-[CLICK][1] to play
+[CLICK][1] to draw
 
 ## Installation
 
