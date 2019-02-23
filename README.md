@@ -8,7 +8,7 @@ This is a drawing tool - choose a grid size, pick a color and then start drawing
 
 ## Installation
 
-Clone/download this repository and then open the index.html file to play the game
+Clone/download this repository and then open the index.html file to use the drawing tool
 
 ## Development
 
