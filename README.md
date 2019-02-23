@@ -4,9 +4,11 @@
 
 This is a drawing tool - choose a grid size, pick a color and then start drawing!
 
-## Access and Installation
+[CLICK][1] to play
 
-You can access it by [clicking here][1] or by cloning/downloading this repository and then opening the index.html file
+## Installation
+
+Clone/download this repository and then open the index.html file to play the game
 
 ## Development
 
