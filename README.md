@@ -2,7 +2,7 @@
 
 This repository contains a drawing tool
 
-<img src="https://github.com/wlabi/Pixel-Art-Maker-Udacity-FEND/blob/master/Pixel%20Art%20Maker%20Screenshot.png" alt="screenshot of pixel art maker" width="90%" height="90%" margin: "0 auto">
+<img src="https://github.com/wlabi/Pixel-Art-Maker-Udacity-FEND/blob/master/Pixel%20Art%20Maker%20Screenshot.png" alt="screenshot of pixel art maker" width="90%" height="90%">
 
 [CLICK][1] to start
 
