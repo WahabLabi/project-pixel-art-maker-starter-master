@@ -11,21 +11,23 @@
     <h1 class="animated infinite pulse">PIXEL ART MAKER</h1>
 
     <h2>Choose Grid Size</h2>
-    <form id="sizePicker">
-        Grid Height (maximum 18):
-        <input type="number" id="input_height" name="height" min="1" value="">
-        Grid Width (maximum 60):
-        <input type="number" id="input_width" name="width" min="1" value="">
-        <input type="submit">
-    </form>
-
+        <p>
+            <form id="sizePicker">
+            Grid Height (maximum 18):
+            <input type="number" id="input_height" name="height" min="1" value="">
+            Grid Width (maximum 60):
+            <input type="number" id="input_width" name="width" min="1" value="">
+            <input type="submit">
+            </form>
+        </p>
+    
     <h2>Color</h2>
-    <p>To pick a color click on the black button below (some browsers won't show a button and so just type your desired color)</p>
-    <input type="color" id="colorPicker">
+        <p>To pick a color click on the black button below (some browsers won't show a button and so just type your desired color in the empty box instead)</p>
+        <input type="color" id="colorPicker">
 
     <h2>Design Canvas</h2>
-    <p>(1) Click anywhere on the grid to start (2) Use your mouse or touchpad to draw (3) Double click to stop or change color</p>
-    <table id="pixel_canvas"></table>
+        <p>(1) Click anywhere on the grid to start (2) Use your mouse or touchpad to draw (3) Double click to stop or change color</p>
+        <table id="pixel_canvas"></table>
 
     <!--refresh grid-->
     <button type="button" id="refresh_grid" onclick="alert('Are you sure you want to erase your design?')">Refresh</button>
