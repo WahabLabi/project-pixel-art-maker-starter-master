@@ -4,8 +4,6 @@ This repository contains a drawing tool
 
 <img src="/Pixel-art-maker-screenshot .png" alt="screenshot of pixel art maker" width="90%" height="90%">
 
-<img src="https://github.com/wlabi/Pixel-Art-Maker-Udacity-FEND/blob/master/Pixel%20Art%20Maker%20Screenshot.png" alt="screenshot of pixel art maker" width="90%" height="90%">
-
 [CLICK][1] to start
 
 ## Installation
