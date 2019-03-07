@@ -2,7 +2,7 @@
 
 This repository contains a drawing tool
 
-<img src="/Pixel-art-maker-screenshot.png" alt="screenshot of pixel art maker" width="90%" height="90% margin: 0 auto">
+<img src="/Pixel-art-maker-screenshot.png" alt="screenshot of pixel art maker" width="90%" height="90%">
 
 [CLICK][1] to start
 
